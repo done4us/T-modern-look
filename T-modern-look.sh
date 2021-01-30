@@ -5,12 +5,12 @@
 ###########################################
 echo -e "\e[32m[*]\e[34m WELCOME TO DUMPED ONE  TOOLS  \e[m "
 echo
-#Installing the following packages to install T-Remix
+#Installing the following packages to install T-modern-look
 echo " "
-echo -e "\e[32m[*]\e[34m Installing T-Remix \e[m "
+echo -e "\e[32m[*]\e[34m Installing T-modern-look \e[m "
 echo
 #storage permission
-termux-setup-storage -y && rm -rf T-Remix-master
+termux-setup-storage -y 
 #updating the packages
 apt-get update -y
  #upgrading the packages
@@ -39,7 +39,7 @@ echo "
 
   WELCOME TO DUMPED ONE
 
-toilet -f metal "T - R e m i x" v 1.0" | lolcat
+toilet -f metal "T - R e m i x" v 1.0" |lolcat
 
 
 echo " "
@@ -52,7 +52,7 @@ echo "
 sleep 5
 
 echo " "
-echo "[*]Installing T-Remix please wait " |lolcat
+echo "[*]Installing T-modern-look please wait " |lolcat
 sleep 3
 echo  "[*]checking the required packages " |lolcat
 sleep 2
@@ -78,7 +78,7 @@ rm -rf motd
 cd $HOME
 
 
-cd T-Remix
+cd T-modern-look
 
 
 #copy new bash.bashrc to usr/etc
@@ -88,8 +88,8 @@ cp bash.bashrc /data/data/com.termux/files/usr/etc
 cd $HOME
 
 
-#change directory to T-Remix
-cd T-Remix
+#change directory to T-modern-look
+cd T-modern-look
 
 
 #from here copying the hacker.mp3 sound to the sdcard of the user
@@ -214,6 +214,6 @@ cd $HOME
 echo "bell-character=ignore" >> /data/data/com.termux/files/home/.termux/termux.properties && termux-reload-settings
 echo
 ############################################################
-#         T-Remix                                          #
+#         T-modern-look                                    #
 #  simply changing this banner will not develop your skill #
 ############################################################
