@@ -4,7 +4,7 @@ echo " "
 echo " "
 echo "
      ━━━━━━━━━━━━━━━━━━━━━━━━ [★] L O G I N [★] ━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                        " |lolcat
+                        " | lolcat
   
 
 
@@ -21,7 +21,7 @@ echo "  Made by DUMPED ONE with love -------
 echo " CREATOR is DUMPED ONE with your love... 
      ━━━━━━━━━━━━━━━━━━━━━━━━━ [★] W E L C O M E [★] ━━━━━━━━━━━━━━━━━━━━━━━━
 
-                              " |lolcat
+                              " | lolcat
 echo " "
 echo " "
 
