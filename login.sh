@@ -32,7 +32,7 @@ then
  echo
 else
  echo
- echo "Re-run : bash t-remix.sh "
+ echo "Re-run : bash T-modern-look.sh "
  exit 0
 fi
 
