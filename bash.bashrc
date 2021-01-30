@@ -6,7 +6,7 @@ mpv /sdcard/hacker.mp3
 clear
 echo " "
 echo "      
-                 < ━━━━━━━━━━━━━ [★] O N L I N E [★] ━━━━━━━━━━━━━ > " |lolcat                 
+                 < ━━━━━━━━━━━━━ [★] O N L I N E [★] ━━━━━━━━━━━━━ > " | lolcat                 
 echo "     "
 
 
