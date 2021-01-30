@@ -1,8 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
-######################################
-#        PROJECT: T-Remix            #
-#        Author: Dumped One          #
-######################################
+###########################################
+#        PROJECT: T-modern-look           #
+#        Author: Dumped One               #
+###########################################
 echo -e "\e[32m[*]\e[34m WELCOME TO DUMPED ONE  TOOLS  \e[m "
 echo
 #Installing the following packages to install T-Remix
