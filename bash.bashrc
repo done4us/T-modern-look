@@ -5,8 +5,11 @@ command_not_found_handle() {
 mpv /sdcard/hacker.mp3
 clear
 echo " "
-echo "  
+echo "   "
 
 cowsay -f kiss @thedumpedone |lolcat    
+
+echo " "  
+echo "  
                  < ━━━━━━━━━━━━━ [★] O N L I N E [★] ━━━━━━━━━━━━━ > " |lolcat                 
 echo "     "
