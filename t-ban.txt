@@ -1,2 +1,2 @@
 Cowsay -f kiss @thedumpedone |lolcat
-toilet -f slant '  DUMPED ONE'  -F gay |lolcat
+toilet -f slant ' DUMPED ONE'  -F gay |lolcat
