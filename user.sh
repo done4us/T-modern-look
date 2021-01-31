@@ -2,15 +2,22 @@
 clear
 echo " "
 echo " "
-echo -e "\e[33mEnter Your Banner Name(e.g. DUMPED) \e[32m \n\n"
+echo -e "\e[33mEnter Your Terminal Name(e.g. @thedumpedone) \e[32m \n\n"
+read varterm
+
+echo " "
+
+echo "cowsay -f kiss ' $varterm' |lolcat
+
+echo -e "\e[33mEnter Your Banner Name(e.g. DUMPED ONE) \e[32m \n\n"
 read varbanner
 
 echo " " 
 
 echo "toilet -f slant ' $varbanner'  -F gay |lolcat" > t-ban.txt
 
-echo -e "\e[33mEnter Your Terminal Name(e.g. root@dumped) \e[32m  \n\n"
-read varterm
+echo -e "\e[33mEnter Your Dollar Name(e.g. dumped) \e[32m  \n\n"
+read vardollar
 
 echo " " 
 
@@ -18,7 +25,7 @@ echo "PS1='\[\e[1;34m
 \a┌──\a─T─I─M─E─\a──┐\033[1;34m\a┌──\a─D─A─T─E─\a───>\033[1;34m
 \a┌─[\033[1;93m \@\033[1;34m ]──[\033[1;93m \d\033[1;34m ]\033[1;34m
 \a├─[\033[1;32m\w\033[1;34m]\033[1;34m
-\[\e[34m\]└─>$varterm[~]:#\[\e[1;92m\] ' " > ash.txt 
+\[\e[34m\]└─>$vardollar[~]:#\[\e[1;92m\] ' " > ash.txt 
 
 cat "t-ban.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 
