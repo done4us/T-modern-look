@@ -34,7 +34,6 @@ pkg install ncurses-utils -y
 clear
 echo " "
 echo " "
-echo " "
 echo "
 
   WELCOME TO DUMPED ONE
