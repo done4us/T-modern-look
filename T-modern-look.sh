@@ -39,7 +39,7 @@ echo "
 
   WELCOME TO DUMPED ONE
 
-toilet -f metal "T - R e m i x" v 1.0" |lolcat
+toilet -f metal "T-modern-look" v 1.0 |lolcat
 
 
 echo " "
@@ -185,7 +185,7 @@ tput cup 3 3 0
 echo -en "\e[93m what is your name : \e[m"
 read answer
 tput cup 6 30
-echo -e "\e[104m hello! Open a New session!! $answer! \e[m"
+echo -e "\e[102m hello! Open a New session!! $answer! \e[m"
 
 tput cup 9 0
 figlet -f slant "DUMPED ONE" |lolcat
