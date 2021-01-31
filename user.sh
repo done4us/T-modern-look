@@ -7,7 +7,7 @@ read varterm
 
 echo " "
 
-echo "cowsay -f kiss ' $varterm' |lolcat
+echo "cowsay -f kiss ' $varterm' |lolcat" > t-ban.txt
 
 echo -e "\e[33mEnter Your Banner Name(e.g. DUMPED ONE) \e[32m \n\n"
 read varbanner
