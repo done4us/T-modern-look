@@ -39,9 +39,6 @@ echo "
 
   WELCOME TO DUMPED ONE
 
-toilet -f metal "T-modern" v 1.0" -f gay |lolcat
-
-
 echo " "
 echo " "
 echo " 
