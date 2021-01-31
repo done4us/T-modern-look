@@ -38,6 +38,8 @@ echo " "
 echo "
 
   WELCOME TO DUMPED ONE
+   
+toilet -f metal "T - R e m i x" v 1.0" |lolcat
 
 echo " "
 echo " "
