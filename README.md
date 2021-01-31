@@ -1,6 +1,6 @@
 # T-modern-look
-To customize or to make password protected 
-https://github.com/rohit5665/T-modern-look
+To customize or to make password protected
+https://github.com/dumpedone5665/T-modern-look
 ### What is T-modern-look??
 T-modern-look will Help to Customise Your Termux in such a way that you will Enjoy using Termux it will give you a morden look and we also have add a feature of password,so now you can also set Password on your Termux and protect it so no one can login in your termux in absence of you.
 one more feature that we have added is that you can change dollar sign and put anything you want in that place.
@@ -24,8 +24,7 @@ $ termux-setup-storage
   
 $ pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/rohit5665/T-modern-look
-
+$ git clone https://github.com/dumpedone5665/T-modern-look
 $ ls
 
 $ cd T-modern-look
@@ -56,4 +55,3 @@ $ bash remove-login.sh
 ```
 ### Development by DUMPED ONE
 ### Keep connected for hacking tools, Thank you.
- #### My nick name is Dumped One
