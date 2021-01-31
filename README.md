@@ -33,7 +33,7 @@ $ ls
 
 $ chmod +x *
 
-$ bash t-modern-look
+$ bash T-modern-look.sh
 ```
 ### To Remove Banner
 * `Commands` for termux
