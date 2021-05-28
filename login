@@ -8,7 +8,7 @@ echo "
   
 
 
-echo "  Made by DUMPED ONE with love -------
+echo "  Made by DONE4US with love -------
 
               ██╗  ██╗ █████╗  █████╗ ██╗  ██╗███████╗██████╗
               ██║  ██║██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔══██╗
@@ -18,7 +18,7 @@ echo "  Made by DUMPED ONE with love -------
               ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
                                                         "|lolcat
 
-echo " CREATOR is DUMPED ONE with your love... 
+echo " CREATOR is DONE4US with your love... 
      ━━━━━━━━━━━━━━━━━━━━━━━━━ [★] W E L C O M E [★] ━━━━━━━━━━━━━━━━━━━━━━━━
 
                               " |lolcat
