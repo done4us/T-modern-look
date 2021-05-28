@@ -22,18 +22,9 @@ Hope you guys like this Project,then dont forget to give it a like.
 ```
 $ termux-setup-storage
   
-$ pkg update && pkg upgrade && pkg install git -y
-
-$ git clone https://github.com/dumpedone5665/T-modern-look
-$ ls
-
-$ cd T-modern-look
-
-$ ls
-
-$ chmod +x *
-
-$ bash T-modern-look.sh
+$ pkg update && pkg upgrade && pkg install git -y &&
+git clone https://github.com/dumpedone5665/T-modern-look &&
+cd T-modern-look && bash T-modern-look.sh
 ```
 ### To Remove Banner
 * `Commands` for termux
@@ -53,5 +44,5 @@ $ ls
 
 $ bash remove-login.sh
 ```
-### Development by DUMPED ONE
+### Development by DONE4US
 ### Keep connected for hacking tools, Thank you.
