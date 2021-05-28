@@ -1,0 +1,16 @@
+#! /usr/bin/bash
+
+cd /$HOME
+apt-get upgrade -y && apt-get update -y
+clear
+cd T-modern-look
+bash remove-banner.sh
+sleep 2.0
+bash remove-login.sh
+sleep 2.0
+bash uninstall-T-modern-look
+
+clear
+figlet Done4us | lolcat
+echo "Script was deactivated" | lolcat
+echo "Open New Session" | lolcat
