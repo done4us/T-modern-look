@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 ###########################################
 #        PROJECT: T-modern-look           #
-#        Author: Dumped One               #
+#        Author: Done4us                  #
 ###########################################
 echo -e "\e[32m[*]\e[34m WELCOME TO DUMPED ONE  TOOLS  \e[m "
 echo
@@ -36,7 +36,7 @@ echo " "
 echo " "
 echo "
 
-  WELCOME TO DUMPED ONE
+  WELCOME TO Done4us
    
   
     _________     _______  _______  ______   _______  _______  _       
@@ -51,7 +51,7 @@ echo "
 echo " "
 echo " "
 echo " 
-   <─────────────── [ Re-Coded by =*•.¸♡ DUMPED ONE ♡¸.•* ] ───────────────>            
+ <─────────────── [ Coded by =*•.¸♡ DONE4US ♡¸.•* ] ───────────────>            
                                                                " |lolcat
 
 
@@ -128,7 +128,8 @@ echo " "
 echo " "
 echo " "
 
-echo -e "\033[1;32m﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ \033[m  "   
+echo -e "\033[1;32m
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ \033[m  "   
 echo -e "\033[1;33m[*]Please wait \e[m "
 echo -e "\033[1;33m[*]checking installtion \e[m "
 echo -e "\033[1;33m[*]system ok -- CHECKED BY DUMPED ONE\e[m "
@@ -174,7 +175,7 @@ echo " "A
 
 echo " "
 echo "
-        <─────────────── [Re-Coded by *•.¸♡ DUMPED ONE ♡¸.•* ] ───────────────>              
+   <─────────────── [Coded by *•.¸♡ DONE4US ♡¸.•* ] ───────────────>              
                             " |lolcat
 
 echo " "
